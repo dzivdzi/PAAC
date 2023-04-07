@@ -1,0 +1,2 @@
+Run vagrant up to boot 3 separate servers - Jenkins, SonarQube for Monitoring and NexusRepo as a repository
+NOTE: You still need to tweak and play around in Jenkins, add the plugins and configure them - for notifications, I used slack but you can use whatever you want
